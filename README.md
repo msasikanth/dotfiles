@@ -11,8 +11,11 @@ Dot files for my systems (Linux / Mac)
 - [tmux/catppuccin](https://github.com/catppuccin/tmux)
 - [zoxide](https://formulae.brew.sh/formula/zoxide#default)
 - [ghostty](https://ghostty.org/download)
+- [JetBrains Mono Nerd font](https://www.nerdfonts.com/font-downloads)
 
 ## Link config files
+
+Create paths if they don't exist already
 
 ```sh
 ln -s /.zshrc ~/.zshrc
