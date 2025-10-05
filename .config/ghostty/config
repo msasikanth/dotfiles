@@ -1,0 +1,18 @@
+macos-titlebar-proxy-icon = hidden
+confirm-close-surface = false
+title = " "
+
+theme = Catppuccin Latte
+font-family = ""
+font-family = "JetBrainsMono Nerd Font Mono"
+font-style = medium
+font-size = 16
+
+cursor-style-blink = true
+cursor-style = block
+
+window-height = 33
+window-width = 125
+
+shell-integration = zsh
+command = ~/.ghostty-tmux.sh

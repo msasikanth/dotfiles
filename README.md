@@ -18,5 +18,7 @@ Dot files for my systems (Linux / Mac)
 ln -s /.zshrc ~/.zshrc
 ln -s /.tmux.conf ~/.tmux.conf
 ln -s /.oh-my-zsh/themes/agnoster-light.zsh-theme ~/.oh-my-zsh/themes/agnoster-light.zsh-theme
+ln -s /.config/ghostty/config ~/.config/ghostty/config
+ln -s /scripts/ghostty-tmux.sh ~/.ghostty-tmux.sh
 ```
 
