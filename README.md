@@ -14,8 +14,9 @@ Dot files for my systems (Linux / Mac)
 
 ## Link config files
 
+```sh
 ln -s /.zshrc ~/.zshrc
 ln -s /.tmux.conf ~/.tmux.conf
 ln -s /.oh-my-zsh/themes/agnoster-light.zsh-theme ~/.oh-my-zsh/themes/agnoster-light.zsh-theme
-
+```
 
