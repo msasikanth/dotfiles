@@ -18,10 +18,11 @@ Dot files for my systems (Linux / Mac)
 Create paths if they don't exist already
 
 ```sh
-ln -s /.zshrc ~/.zshrc
-ln -s /.tmux.conf ~/.tmux.conf
-ln -s /.oh-my-zsh/themes/agnoster-light.zsh-theme ~/.oh-my-zsh/themes/agnoster-light.zsh-theme
-ln -s /.config/ghostty/config ~/.config/ghostty/config
-ln -s /scripts/ghostty-tmux.sh ~/.ghostty-tmux.sh
+ln -s <directory-path-from-root>/zshrc ~/.zshrc
+ln -s <directory-path-from-root>/tmux.conf ~/.tmux.conf
+ln -s <directory-path-from-root>/oh-my-zsh/themes/agnoster-light.zsh-theme ~/.oh-my-zsh/themes/agnoster-light.zsh-theme
+ln -s <directory-path-from-root>/config/ghostty/config ~/.config/ghostty/config
+ln -s <directory-path-from-root>/config/nvim/init.lua ~/.config/nvim/init.lua
+ln -s <directory-path-from-root>/scripts/ghostty-tmux.sh ~/.ghostty-tmux.sh
 ```
 
