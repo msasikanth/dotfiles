@@ -10,3 +10,6 @@ source $ZSH/oh-my-zsh.sh
 alias cd="z"
 alias gr="gradle"
 
+export EDITOR="nvim"
+export VISUAL="$EDITOR"
+
